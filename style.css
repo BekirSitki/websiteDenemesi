@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgba(180, 180, 180, 0.3);
+}
+
+p    { color: black; background-color: rgba(180, 180, 180, 0.5); border: 30px solid rgba(20, 20, 20, 0.407) ; border-width: 2px ; border-block:unset; border-radius: 20px;   }
+
+a:link, a:visited {
+
+    color: black;
+    background-color: rgba(180, 180, 180, 0.011);
+    padding: 10px;
+    text-align: center;
+    display:inline-table;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    display:inline-block;
+    padding: 10px;
+    background-color: rgba(180, 180, 180, 0.511);
+}
+
